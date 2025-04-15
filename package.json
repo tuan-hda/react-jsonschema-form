@@ -2,6 +2,7 @@
   "name": "react-jsonschema-form",
   "private": true,
   "description": "monorepo for react-jsonschema-form and its themes",
+  "version": "0.0.0",
   "engines": {
     "node": ">=14"
   },
